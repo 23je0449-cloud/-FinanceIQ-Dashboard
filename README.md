@@ -52,4 +52,4 @@ This Power BI dashboard was developed to help a financial organization monitor a
 - Data Visualization
 
 ## 👤 Author
-**Rameshwar Kawade**
+**Yash Kamble**
